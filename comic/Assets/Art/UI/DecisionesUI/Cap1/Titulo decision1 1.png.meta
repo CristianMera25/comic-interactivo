@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 78347e1291d6d1544911a071ad203b84
+guid: c9be0d6f10bccd144b44b7acabc0a3af
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3733463793063801411
-    second: Titulo decision1_0
+      213: 7985052284481022810
+    second: Titulo decision1 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Titulo decision1_0
+      name: Titulo decision1 1_0
       rect:
         serializedVersion: 2
-        x: 144
-        y: 232
+        x: 19
+        y: 0
         width: 3314
-        height: 730
+        height: 724
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 342b95ff98defc330800000000000000
-      internalID: 3733463793063801411
+      spriteID: a5ba9610fba90de60800000000000000
+      internalID: 7985052284481022810
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Titulo decision1_0: 3733463793063801411
+      Titulo decision1 1_0: 7985052284481022810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

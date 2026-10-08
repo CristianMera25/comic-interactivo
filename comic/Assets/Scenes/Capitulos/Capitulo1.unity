@@ -1068,9 +1068,9 @@ RectTransform:
   - {fileID: 349478373}
   m_Father: {fileID: 1102626069}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -13.079163, y: 400.79285}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 498, y: 1235}
   m_SizeDelta: {x: 680.7963, y: 132.8792}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &311617928
@@ -1816,10 +1816,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1102626069}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15.841736, y: 699.1494}
-  m_SizeDelta: {x: 998.3733, y: 330.0287}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 476.11, y: 1528}
+  m_SizeDelta: {x: 889.1062, y: 194.492}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &547620179
 MonoBehaviour:
@@ -1841,7 +1841,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 78347e1291d6d1544911a071ad203b84, type: 3}
+  m_Texture: {fileID: 2800000, guid: c9be0d6f10bccd144b44b7acabc0a3af, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1890,9 +1890,9 @@ RectTransform:
   - {fileID: 1636966014}
   m_Father: {fileID: 1102626069}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14, y: 538}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 495, y: 1378}
   m_SizeDelta: {x: 680.7963, y: 132.8792}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &620773839
@@ -3780,15 +3780,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16d431dc9230d8243a046ff443eb35c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::StoryBranchManager
-  scrollRect: {fileID: 133513461}
-  imagenBlur: {fileID: 1285965507}
-  altoPanelSuperior: 268
-  branch1Container: {fileID: 311617928}
-  branch2Container: {fileID: 312276999}
-  branch3Container: {fileID: 1478806025}
+  "vi\xF1etaDecisionBase": {fileID: 1102626068}
+  ruta1Container: {fileID: 311617928}
+  ruta2Container: {fileID: 312276999}
+  ruta3Container: {fileID: 1478806025}
+  "vi\xF1etaTarget1": {fileID: 1371145215}
+  "vi\xF1etaTarget2": {fileID: 202720521}
+  "vi\xF1etaTarget3": {fileID: 244438141}
   buttonDecision1: {fileID: 620773841}
   buttonDecision2: {fileID: 304582100}
   buttonDecision3: {fileID: 2110756023}
+  imagenDesenfoque: {fileID: 1285965507}
 --- !u!4 &1657104061
 Transform:
   m_ObjectHideFlags: 0
@@ -4454,9 +4456,9 @@ RectTransform:
   - {fileID: 2069430249}
   m_Father: {fileID: 1102626069}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -13.079163, y: 263.5857}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 502, y: 1097}
   m_SizeDelta: {x: 680.7963, y: 132.8792}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2145132504
